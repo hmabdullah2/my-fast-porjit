@@ -1,0 +1,13 @@
+.ami{
+    height: 200px;
+    background-image: url("9.jpg");
+    background-size: contain;
+    background-blend-mode: multiply;
+}
+h1{
+   text-decoration-line: unset;
+}
+
+.blog{
+    
+}
